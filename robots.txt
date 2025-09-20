@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://fangld.github.io/fangld/sitemap.xml
+Sitemap: https://fangld.github.io/sitemap.xml
