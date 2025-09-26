@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Morant0.github.io/my-new-website/sitemap.xml
+Sitemap: https://fangld.github.io/sitemap.xml
